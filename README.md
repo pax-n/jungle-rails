@@ -4,11 +4,11 @@ A mini e-commerce application built with Rails 4.2 for purposes of teaching Rail
 
 ## Final Product
 
-!["Screenshot of home page"](https://github.com/pax-n/tweeter/blob/master/public/images/homepage.png)
+!["Screenshot of home page"](https://github.com/pax-n/jungle-rails/blob/master/public/images/homepage.png)
 
-!["Screenshot of cart"](https://github.com/pax-n/tweeter/blob/master/public/images/cart.png)
+!["Screenshot of cart"](https://github.com/pax-n/jungle-rails/blob/master/public/images/cart.png)
 
-!["Screenshot of product creation page"](https://github.com/pax-n/tweeter/blob/master/public/images/newproduct.png)
+!["Screenshot of product creation page"](https://github.com/pax-n/jungle-rails/blob/master/public/images/newproduct.png)
 
 ## Project Features
 
